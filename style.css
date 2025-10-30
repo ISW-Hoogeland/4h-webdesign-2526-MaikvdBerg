@@ -36,7 +36,10 @@
 
 /* add your css here, feel free to use comments and order them logically for better readability */
 :root {
-   --kleur-1:
+   --kleur-1: #f6f3ed;
+   --kleur-2: #c2cbd3;
+   --kleur-3: #313851;
+   --font-main: 'Segoe UI', sans-serif;
 }
 
 header {
