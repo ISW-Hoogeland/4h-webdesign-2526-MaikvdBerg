@@ -48,7 +48,7 @@ body {
    "header nav"
    "main main"
    "footer footer";
-   grid-template-columns: 1fr 3fr;
+   grid-template-columns: 1fr 1fr;
    grid-template-rows: 120px 1fr 60px;
 }
 
